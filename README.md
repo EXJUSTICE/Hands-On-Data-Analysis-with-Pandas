@@ -64,5 +64,4 @@ Stefanie Molin ([@stefmolin](https://github.com/stefmolin)) is a data scientist 
 
 In her free time, she enjoys traveling the world, inventing new recipes, and learning new languages spoken both among people and computers.
 
-## Acknowledgements
-Since the book limited the acknowledgements to 450 characters, the full version is [here](https://github.com/stefmolin/Hands-On-Data-Analysis-with-Pandas/blob/master/acknowledgements.md).
+
